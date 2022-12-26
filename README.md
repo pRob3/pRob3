@@ -1,6 +1,6 @@
 ## Hey, I'm Dennis.
 
-I live around Gothenburg, Sweden. I like music, good food, nerdy beers, and coding. Working at NetOnNet as a full stack developer.
+I live in Sweden. I like music, good food, nerdy beers, and coding. Working at NetOnNet as a full stack developer.
 
 ### Get In Touch
 
